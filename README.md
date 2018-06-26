@@ -7,6 +7,7 @@ the contributers to this project thus far have been:
 * Olexander Gorbunov - writing software, schematic design, general tehncial consultation
 * Troy Wuelfing - mechanical design, PCB design, fabrication, testing, funding
 * IKEA Communications - funding
+* Bao Huynh - logo design
 
 It is our desire that this design will be freely used by anyone who thinks its useful
 it is our dream that others will contriubute and improve on what we have made.
